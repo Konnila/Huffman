@@ -1,0 +1,6 @@
+Työssäni toteutan Huffmanin (Adaptiivinen), johon kuuluu oleellisena osana minimikeko.
+Huffman on mielenkiintoinen.
+Syötteekseen ohjelma saa tiedoston joka pakataan.
+Tavoiteaikavaativuus: O(n log n)
+Tavoitetilavaativuus: O(n)
+Lähteet: Cormen, Wikipedia (Huffman Coding)
